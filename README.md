@@ -50,5 +50,8 @@ Dělí se na:
 #### Spotřeba
 = užití statků a služeb k uspokojování lidských potřeb (konečná a spotřební)
 
-další věci doplnim pak někdy
 zdroj: https://ekonomie-ucetnictvi.cz/potreby-statky-sluzby-zivotni-uroven-zdroje-statku-a-sluzeb-vyrobni-faktory-delba-prace-trzni-mechanismus/
+
+## 2 - 5 doplním zítra, slibuju
+
+Otázky 6 - 10 jsou [ZDE](2.htm)

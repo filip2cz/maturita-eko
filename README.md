@@ -1,5 +1,7 @@
 # Ekonomika - maturitní okruhy
 
+[zkrácená osnova](./osnova/)
+
 ## 1. Lidské potřeby, statky a služby
 
 ### Dělení potřeb:

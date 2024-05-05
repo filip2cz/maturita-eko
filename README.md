@@ -60,4 +60,6 @@ Dělí se na:
     - kolik statků a služeb je obyvatelstvu poskytováno státem a v jaké kvalitě
     - úroveň životních podmínek (životní prostředí, množství volného času)
 
-zdroje: https://ekonomie-ucetnictvi.cz/potreby-statky-sluzby-zivotni-uroven-zdroje-statku-a-sluzeb-vyrobni-faktory-delba-prace-trzni-mechanismus/ , učebnice EKONOMICKÁ A FINANČNÍ GRAMOTNOST pro střední školy, nakladatelství EDUKO, 2011
+zdroje:
+- https://ekonomie-ucetnictvi.cz/potreby-statky-sluzby-zivotni-uroven-zdroje-statku-a-sluzeb-vyrobni-faktory-delba-prace-trzni-mechanismus/
+- učebnice EKONOMICKÁ A FINANČNÍ GRAMOTNOST pro střední školy, nakladatelství EDUKO, 2011

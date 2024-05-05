@@ -55,5 +55,3 @@ Dělí se na:
 zdroj: https://ekonomie-ucetnictvi.cz/potreby-statky-sluzby-zivotni-uroven-zdroje-statku-a-sluzeb-vyrobni-faktory-delba-prace-trzni-mechanismus/
 
 ## další budou snad brzo
-
-<meta http-equiv="refresh" content="0; URL=./osnova/" />

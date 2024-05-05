@@ -52,8 +52,6 @@ Dělí se na:
 #### Spotřeba
 = užití statků a služeb k uspokojování lidských potřeb (konečná a spotřební)
 
-zdroj: https://ekonomie-ucetnictvi.cz/potreby-statky-sluzby-zivotni-uroven-zdroje-statku-a-sluzeb-vyrobni-faktory-delba-prace-trzni-mechanismus/
-
 ### Životní úroveň
 
 - uspokojování služeb
@@ -62,4 +60,4 @@ zdroj: https://ekonomie-ucetnictvi.cz/potreby-statky-sluzby-zivotni-uroven-zdroj
     - kolik statků a služeb je obyvatelstvu poskytováno státem a v jaké kvalitě
     - úroveň životních podmínek (životní prostředí, množství volného času)
 
-## další budou snad brzo
+zdroje: https://ekonomie-ucetnictvi.cz/potreby-statky-sluzby-zivotni-uroven-zdroje-statku-a-sluzeb-vyrobni-faktory-delba-prace-trzni-mechanismus/ , učebnice EKONOMICKÁ A FINANČNÍ GRAMOTNOST pro střední školy, nakladatelství EDUKO, 2011

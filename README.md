@@ -54,4 +54,12 @@ Dělí se na:
 
 zdroj: https://ekonomie-ucetnictvi.cz/potreby-statky-sluzby-zivotni-uroven-zdroje-statku-a-sluzeb-vyrobni-faktory-delba-prace-trzni-mechanismus/
 
+### Životní úroveň
+
+- uspokojování služeb
+- tři složky:
+    - kolik statků a služeb obyvatelstvo spotřebuje (nebo nakupuje) a v jaké kvalitě
+    - kolik statků a služeb je obyvatelstvu poskytováno státem a v jaké kvalitě
+    - úroveň životních podmínek (životní prostředí, množství volného času)
+
 ## další budou snad brzo

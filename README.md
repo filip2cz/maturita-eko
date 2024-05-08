@@ -4,6 +4,8 @@
 
 ## 1. Lidské potřeby, statky a služby
 
+Potřeby uspokojujeme pomocí statků a služeb.
+
 ### Dělení potřeb:
 - Fyzické / Duševní
     - Fyzické: jsou dány biologickou podstatou člověka – jíst, pít, spát, obléci se
@@ -18,15 +20,13 @@
     - Zbytné: nejsou bezpodmínečně nutné k životu, obejdu se bez nich (např. kaviár)
     - Nezbytné: bezpodmínečně nutné k životu (např. spánek, chléb, voda)
 
-### Statky a služby
-= prostředky k uspokojování potřeb
-
 #### Statky
 = Předměty, které uspokojují potřeby
 
 - Hmotné / Nehmotné
-    - Hmotné: věci, kterými lze uspokojit lidské potřeby (boty, dům, kolo..)
-    - Nehmotné: duševní výtvor člověka (znalost cizího jazyka, počítačový program)
+    - Hmotné: věci, kterými lze uspokojit lidské potřeby (boty, dům, kolo, kniha, ...)
+    - Nehmotné: duševní výtvor člověka (znalosti, duševní výtvory, ...)
+        - Mohou být naneseny na hmotném statku (např. znalost něčeho může být "nanesena" na knize, ...)
 - Spotřební / Kapitálové
     - Spotřební: slouží přímo k uspokojení potřeb např. potraviny, oděv; dále se dělí na
         - konzumní: používají se pro dlouhou dobu, nespotřebují se najednou (televize, nábytek) => po každém použití se nemusí obnovovat
@@ -39,8 +39,8 @@
 #### Služby
 = Činnosti, které uspokojují potřeby jsou služby – opravy, doprava, kadeřnická činnost, lékařská péče
 
-- věcné služby: činnosti, které obnovují nebo zlepšují hmotné statky (různé opravy)
-- osobní služby: souvisí pouze s vlastní osobou (kadeřnictví, pedikúra, zdravotní a lázeňská péče, kultura a výchova)
+- věcné: činnosti, které obnovují nebo zlepšují hmotné statky (různé opravy, ...)
+- osobní: týkající se přímo člověka (kadeřnictví, pedikúra, zdravotní a lázeňská péče, kultura, výchova, ...)
 
 #### Veřejné statky a služby
 = Poskytuje je stát, který ovšem na ně musí získat prostředky. Ty získává z našich DANÍ!! Dá se tedy říct, že i veřejné statky a služby platíme, ale nepřímo.
@@ -85,10 +85,64 @@ Součásti výrobního procesu:
 - přirodní - např. růst plodit, zvířat, zrání ovoce a zeleniny
 - technologický - promyšlený a záměrný postup při využití kapitálových statků, jako například výroba aut, oděvů, chemická výroba, atd.
 
-### Účinnost
+Dále se dělí podle:
+- časového hlediska:
+    - předvýrobní etapa: zajištení potřebných předmětů, prostředků, pracovních sil, ...
+    - výrobní etapa: přeměna surovin a materiálů v produkt
+    - odbytová etapa: převzetí výrobku z výroby, skladování, baledí, expedice, fakturace, ...
+- podle opakování výroby:
+    - přetržitý
+        - výroba probíhá po částech na různých pracovištích a výrobu lze kdykoliv přerušit
+        - typicky pro strojírenskou výrobu
+    - nepřetržitý
+        - probíhá plynule bez přerušení
+        - typicky v chemické nebo hutní výrobě
+- podle účasti pracovní síly:
+    - pracovní – člověk přetváří pomocí nástrojů materiál na výrobek, člověk nejvíce zastoupen
+    - automatický – člověk je méně zastoupen, většinu práce za něj vykonává výrobní linka
+    - přírodní – např. kvašení vína nebo kynutí těsta, člověk pouze tvoří podmínky
+- podle ekonomického určení výrobku:
+    - základní výroba
+        - hlavní činnost podniku
+        - vyrábí se výrobky určené k odbytu, představuje v tom odbyt
+        – největší část
+    - vedlejší výroba – např. výroba náhradních dílů
+    - doplňková výroba – doplňuje výrobu hlavní, zpracovává odpad
+    - přidružená výroba – vůbec nesouvisí s hlavní výrobou, v odvětví, kde je nutné využít výrobní kapacitu podnik
+    - pomocná výroba – výroba energie pro vlastní použití, atd.
+    - obslužné procesy – vlastní doprava výrobků, skladování
+- podle typů výroby
+    - kusová:
+        - zakázková, od jednoho druhu 1 kus a nebo malý počet kusů
+        - výroba je nepravidelná
+        - uplatňuje se vysoká kvalifikace
+        - např. turbíny, lanovky
+    - sériová: 
+        - vyrábí se menší počet druhů, ale více kusů
+        - opakuje se
+        - levnější
+        - např. auta
+    - hromadná:
+        - malý počet druhů, ale počet velký kusů
+        - malá opakovatelnost
+        - pracovníci s menší kvalifikací
+        - stroje jednoúčelové
+        - automatické linky
+        - např. ložiska, žárovky
+
+#### Účinnost
 Všechny součásti výrobního procesu můžeme poměřovat podle účinnosti:
 - účinnost lidské práce - závisí na úrovni vzdelání a odborných znalostí lidí (také ale na jejich pracovním úsilí, organizaci práce, jeji intenzitě, atd.)
 - účinnost přírodního procesu - je dána přirodními faktory (vliv počasí, podnebí, ...)
 
+### Dělba práce
+- Přirozená dělba práce – spočívá v rozdělení pracovních činností podle osobních přirozených dispozic. Cílem je efektivnější práce (muži loví, ženy dělají ostatní méně fyzicky náročné práce, které již muži po lovu nemuseli vykonávat).
+- Společenská dělba práce – funguje na stejném principu jako přirozená dělba, došlo k ní rozdělením na zemědělce a pastevce. Oddělení řemesel, obchodu od výroby. Zvyšuje se efektivnost tím, že každý výrobce se může specializovat v souladu se svými individuálními schopnostmi.
+- Dělba práce v pracovních operacích – vznikla se zavedením s manufakturní výroby. Spočívá v tom, že jeden dělník se specializuje pouze na jednu činnost.
+- Mezinárodní dělba práce – posouzení z hlediska územního, působí zde i přírodní a klimatické podmínky.
+
 zdroje:
 - učebnice Ekonomie nejen k maturitě: obecná ekonomie, nakladatenství Computer Media s.r.o., 2010
+- https://ekonomie-ucetnictvi.cz/vyrobni-proces-priprava-vyrobniho-procesu-ekonomie/
+- https://ekonomika-otazky.studentske.cz/2008/05/vrobn-proces.html
+- https://ekonomie-otazky.studentske.cz/2009/01/delba-prace.html

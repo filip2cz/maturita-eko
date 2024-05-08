@@ -63,3 +63,32 @@ Dělí se na:
 zdroje:
 - https://ekonomie-ucetnictvi.cz/potreby-statky-sluzby-zivotni-uroven-zdroje-statku-a-sluzeb-vyrobni-faktory-delba-prace-trzni-mechanismus/
 - učebnice EKONOMICKÁ A FINANČNÍ GRAMOTNOST pro střední školy, nakladatelství EDUKO, 2011
+
+## 2. Pracovní proces, dělba práce
+- Pracovní = lidská činnost
+- Smysluplná, cílevědomá činnost
+- Pracovní síla = znalosti, zkušenosti, zručnosti, obecné vlastnosti
+
+### Výrobní zdroje
+Jejich existencí je předpokladem pro výrobní činnost. Postupně se přemění na požadované statky.
+
+Druhy:
+- Lidská práce - vystupuje jako aktivní, určující faktor výroby
+- Přírodní zdroje - voda, sluneční záření, půda, suroviny, atd.
+- Kapitálové statky - boduvy a stavby, stroje, nářadí, zařízení, atd. (jsou již výsledkem předchozí činnosti)
+
+### Výrobní proces
+Přeměna výrobních zdrojů na statky.
+
+Součásti výrobního procesu:
+- pracovní - vynaložení lidské práce
+- přirodní - např. růst plodit, zvířat, zrání ovoce a zeleniny
+- technologický - promyšlený a záměrný postup při využití kapitálových statků, jako například výroba aut, oděvů, chemická výroba, atd.
+
+### Účinnost
+Všechny součásti výrobního procesu můžeme poměřovat podle účinnosti:
+- účinnost lidské práce - závisí na úrovni vzdelání a odborných znalostí lidí (také ale na jejich pracovním úsilí, organizaci práce, jeji intenzitě, atd.)
+- účinnost přírodního procesu - je dána přirodními faktory (vliv počasí, podnebí, ...)
+
+zdroje:
+- učebnice Ekonomie nejen k maturitě: obecná ekonomie, nakladatenství Computer Media s.r.o., 2010

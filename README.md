@@ -1,5 +1,5 @@
 # Ekonomika - maturitní okruhy
-## Společná práce Filipa Komárka (1-2) a Mikuláše Jana Honyse (11-15)
+## Společná práce Filipa Komárka (1-2), Šimona Konečného (6-10) a Mikuláše Jana Honyse (11-15)
 [zkrácená osnova](./osnova/)
 
 ## 1. Lidské potřeby, statky a služby
@@ -163,6 +163,117 @@ doplnim pak
 
 zdroje:
 - http://gymnazium1.milevsko.cz/dokumenty/ekf2/kol/hospodarsky_proces.html
+
+## 6. Řízení podniku a informační proces
+Informace – údaj s významem pro podnik
+
+Druhy podle:
+- času - Minulé, budoucí
+- rozsahu - jednotlivé, souhrné
+- obsahu - technické, sociálně-ekonomické
+- dosahu - vnitřní, vnější
+
+Fáze řízení podniku:
+- rozhodování - o oboru, strategii, zaměstnancích
+- plánování
+- organizování - uspořádání pracoviště, hierarchie
+- vedení a motivace
+	- kladná/záporná
+	- peněžní/nepeněžní
+- kontrola - ověření
+
+Znaky stylů vedení:
+- komunikace
+- pravomoci
+- osobní rozvoj podřízených
+- kontrola
+- efektivita
+- použití
+
+Styly vedení:
+- autokratický
+- demokratický
+- liberální
+
+|               | autokratický                              | demokratický            | liberální (často nižší úr. řízení)  |
+| ------------- | ----------------------------------------- | ----------------------- | ----------------------------------- |
+| komunikace    | jednostranná komunikace                   | oboustranná komunikace  | otevřenost (často bez závěru)       |
+| pravomoci     | soustředěné nadřízeným                    | příměřeně rozdělené     | nejsou jasně rozdělené              |
+| osobní rozvoj | často omezen (ne vždy)                    | podporován              | nesystémové                         |
+| kontrola      | nepřiměřeně důsledná (demotivační)        | přiměřená               | nahodilá                            |
+| efektivita | neefektivní (až na vyjímky, např. armáda, ..) | nejefektivnější (podmínka: sebekázeň zaměstnanců) | neefektivní (vyjímka: tvůrčí profese, např. umění, věda, ...) |
+| použití       | armáda, JZS, výběr zaměstnanců            | běžné podniky           | věda, výzkum, tvůrčí profese, umění |
+
+## 7. Hmotná stránka podnikové činnosti
+Musí být evidovaný v účetnictví
+
+### Oběžný majetek
+Peníze -> suroviny (přírodní látky), materiály (zpracovaná surovina), polotovary (nedokončená výroba) -> výrobky -> Zboží -> (pohledávky) -> peníze
+
+Banky mají pouze peníze a pohledávky
+
+Pohledávku má dodavatel za odběratelem, za již dodané statky/služby, které ještě nejsou zaplacené
+
+Závazek má naopak odběratel za dodavatelem
+
+#### Dlouhodobý hmotný investiční majetek
+Jde o produkty postupné spotřeby
+
+Pořizovací cena > 80 000
+a zároveň
+Doba > 1rok
+
+Při zdanění se odečítá od příjmů po částech několik let
+
+#### Drobný hmotný majetek
+Cena < 80 000
+nebo
+Doba < 1 rok
+
+#### Nehmotný investiční majetek
+Doba > 1 rok
+
+Patenty, autorská práca, software, atd.
+
+#### Finanční investiční majetek
+
+### Evidence majetku
+skladní karty (drobný majetek), inventářní karty (dlouhodobý majetek), inventarizace (vyřešení rozdílů)
+
+## 8. Zabezpečování podniku pracovníky
+
+Bude doplněno později
+
+## 9. Pracovně právní vztahy
+Zaměstnanci jsou Pracovní síla (práce - cílevědomá činnost)
+
+Zaměstnání = závislá činnost
+
+Vztahy zaměstnanců a podniku upravuje Zákoník práce (např. zákony o mzdě, zaměstnanosti, soc. a zdrav. pojištění, nebo kolentivním vyjednávání)
+
+Pracovní poměr je určen pracovní smlouvou, DPP nebo DPČ
+
+DPP (**D**ohoda o **P**rovedení **P**ráce) - max 300 hodin ročně - pod 10 000 Kč se neplatí soc. a zdrav. pojištění
+
+DPČ (**D**ohoda o **P**rovedení **Č**innosti) - limitováno na počet hodin (max polovina průměrné - 40 hodin týdně) - pod 4 000 Kč se neplatí zdravotní pojištění
+
+### Pracovní smlouva
+Musí obsahovat:
+- vymezení stran
+- popis pracovní činnosti
+- místo práce
+- mzdové podmínky
+- pracovní doba
+- hmotná odpovědnost
+
+## 10. Mzdová soustava
+Složky mzdy
+- Pevná složka - základná mzda (úkolová, časová, podílová, kombinovaná)
+- Pohyblivá složka
+	- Příplatky - plat za nestandartní podmínky (přesčasy, práce o svátcích)
+	- Prémie - "odměna" za splnění norem (kvalita, kvantita)
+	- Odměny - osobní ohodnocení ničím nepodmíněné
+- Náhrady mzdy - dovolená, úřední jednání, lékař
 
 ## 11. Podnikání fyzických a právnických osob
 ### Definice podnikání

@@ -288,7 +288,7 @@ Složky mzdy
 ### Druhy podniků
 
 #### OSVČ
-- **Osoba výdělečně činná**
+- **O**soba **s**amostatně **v**ýdělečně **č**inná
 - Fyzická osoba, která je samostatně výdělečně činná
 - Je širší kategorie a spadají pod ní:
 	- živnostníci

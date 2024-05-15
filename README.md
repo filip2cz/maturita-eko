@@ -249,7 +249,7 @@ Zaměstnanci jsou Pracovní síla (práce - cílevědomá činnost)
 
 Zaměstnání = závislá činnost
 
-Vztahy zaměstnanců a podniku upravuje Zákoník práce (např. zákony o mzdě, zaměstnanosti, soc. a zdrav. pojištění, nebo kolentivním vyjednávání)
+Vztahy zaměstnanců a zaměstnavatelů upravuje Zákoník práce (např. zákony o mzdě, zaměstnanosti, soc. a zdrav. pojištění, nebo kolentivním vyjednávání)
 
 Pracovní poměr je určen pracovní smlouvou, DPP nebo DPČ
 
@@ -257,7 +257,13 @@ DPP (**D**ohoda o **P**rovedení **P**ráce) - max 300 hodin ročně - pod 10 00
 
 DPČ (**D**ohoda o **P**rovedení **Č**innosti) - limitováno na počet hodin (max polovina průměrné - 40 hodin týdně) - pod 4 000 Kč se neplatí zdravotní pojištění
 
+Zaměsnanec může dát výpověď bez udání důvodu. Zaměstnavatel musí uvést důvod, proti kterému se může zaměstnanec odvolat.
+
+Plat získávají ti zaměstnanci, kteří jsou placeni z veřejných peněz (státní zaměstnanci, zaměstnanci neziskovek). Mzdu získávají všichni ostatní.
+
 ### Pracovní smlouva
+Je uzavírána mezi zaměstnancem a zaměstnavatelem.
+
 Musí obsahovat:
 - vymezení stran
 - popis pracovní činnosti
@@ -265,6 +271,10 @@ Musí obsahovat:
 - mzdové podmínky
 - pracovní doba
 - hmotná odpovědnost
+- mimořádné podmínky (např. že nesmíš pak pracovat po určitou dobu ve stejném odvětví, atd.)
+- podmínky výpovědi
+- mimořádné výhody
+- často odkaz na zákoník práce (nepovinné)
 
 ## 10. Mzdová soustava
 Složky mzdy

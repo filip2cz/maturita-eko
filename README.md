@@ -545,12 +545,13 @@ Složky mzdy
 ## 15. Daňová soustava ČR
 
 ### Definice daní
->Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictví nějakého majetku nebo příjmu
+Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictví nějakého majetku nebo příjmu. Tyto peníze jdou do státního rozpočtu.
 
 ### Právní úprava daní
 - Upravují je daňové zákony
 
 ### Pojmy
+- Daň - povinný nevratný poplatek státu
 - Daňový subjekt - právnická/fyzická osoba, které vzniká nějaká daňová povinnost
 	- Nemusí být pouze placení daní (**poplatník/plátce**), ale i například poskytovat informace -> oznamovací informace
 - Daňový plátce - odvádí daně státu a stát ho adresně zná

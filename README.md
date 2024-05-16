@@ -631,9 +631,11 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 #### Základní sazba
 - 21%
 - DPH, skoro všechno
+
 #### Snížená sazba
 - 12%
 - potraviny
+
 #### Nulová sazba
 - 0%
 - knihy, školné, ČT tv
@@ -690,12 +692,16 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
     - licensuje komerční banky i nebankovní společnosti
     - koriguje inflaci (úrokové sazby komerčních bank)
     - spolupráce a zaměření:
+
 #### EBOR
 - Evropská banka pro obnovu a rozvoj
+
 #### ECB
  - Evropská centrální banka
+
 #### SB
 - Světové banky (celosvětová spolupráce)
+
 #### MMF
 - mezinarodní měnový fond
 
@@ -703,6 +709,7 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 - vždy se jedná o p. o., konkrétně akciovou společnost (zapsána v obchodním rejstříku)
 - cílem je zisk
 - typy operací:
+
 #### Aktivní
 - klient je dlužníkem
 - banka je věřitelem
@@ -740,7 +747,9 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 ## 19. Managment
 - řízení podniku, firmy, týmu, kolektivu
 - manager = správce, vedoucí
+
 ### Kroky:
+
 #### 1) Rozhodování
 - douhodobý horizont
 - krátkodobý horizont

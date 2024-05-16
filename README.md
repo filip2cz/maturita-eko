@@ -1,5 +1,5 @@
 # Ekonomika - maturitní okruhy
-## Společná práce Filipa Komárka (1-2), Šimona Konečného (6-10) a Mikuláše Jana Honyse (11-15)
+## Společná práce Filipa Komárka (1-2), Šimona Konečného (6-10), Mikuláše Jana Honyse (11-15) a Lva Bebekina (16-20)
 [zkrácená osnova](./osnova/)
 
 ## 1. Lidské potřeby, statky a služby
@@ -581,3 +581,295 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 - https://www.kb.cz/cs/podpora/slovnik/vyrazy-zacinajici-na-o/obchodni-rejstrik
 - https://cs.wikipedia.org/wiki/Obchodn%C3%AD_rejst%C5%99%C3%ADk
 - https://dostupnyadvokat.cz/blog/jak-na-zapis-do-obchodniho-rejstriku
+
+## 16. Daňová soustava ČR
+### daň
+- letí do státního rozpočtu
+- soc./zdrav. pojištění není daň
+- berní úřad -> daňový úřad
+
+### daňový subjekt
+- má daňovou povinnost
+    - platit daně
+    - dávat státu informace
+- fyzická.o.
+- právnická.o.
+
+### daňové objekt
+- předměty zdanění, zatíženné daňí
+- byt, automaty, stroje
+
+### plátce × poplatník
+- *plátce*
+    -    odvádí daň sátu
+- *poplatník*
+    - schudne o své peníze
+
+### daňová sazba
+- nějaká fixní častka
+- fixní částka
+
+### daňová lhůta
+- termíny, nějaké deadliny
+- 1/ročně
+- 4/ročně
+- 12/ročně
+
+### daňové zásady
+- pravidla na dodržování:
+    - daňová spravedlnost
+    - daňová přiměřenost
+    - daňová vymahatelnost
+
+## 17. Druhy Daní
+### Přímé × Nepřímé
+
+### Nepřímé daně
+- stát NEZNÁ poplatníka
+- stát ZNÁ plátce
+
+#### Základní sazba
+- 21%
+- DPH, skoro všechno
+#### Snížená sazba
+- 12%
+- potraviny
+#### Nulová sazba
+- 0%
+- knihy, školné, ČT tv
+
+#### Spotřební
+- nějaká stanovená pevná částka
+- alkohol, tabák, paliva, maziva
+- (nízká poptávková prožnost)
+#### Ekologická
+- zemní plyn
+- elektřina (pevná částka kw/h)
+- uhlí
+
+### Přímé daně
+- stát ZNÁ poplatníka
+- stát ZNÁ plátce
+
+#### silniční daň
+- pouze pokud k podnikání
+- plátcem i poplatníkem je:
+    - fyzická osoba
+    - pravnická
+- auto musí být v podnikovém majetku
+- kritéria výpočtu:
+    - objem motoru
+    - počet náprav
+    - hmotnost vozidla
+
+#### daň z nemovitostí
+- plátcem i poplatníkem je:
+    - fyzická osoba
+    - pravnická
+- stát ze svých nemovitostí daň neplatí
+- (platí se koncem května)
+- kritéria výpočtu:
+    - rozloha
+    - region
+    - pozemky:
+        - vinohrady, sady
+        - orná půda
+        - lesní půda
+    - stavby:
+        - rekreační
+        - komerční
+        - bytový
+
+## 18. Bankovní soustava ČR
+### ČNB
+- česká národní Banka
+- státní peněžní ústav (speciální zákon)
+- guvernér, bankovní rada
+- funkce:
+    - vydává měnu, její emise
+    - licensuje komerční banky i nebankovní společnosti
+    - koriguje inflaci (úrokové sazby komerčních bank)
+    - spolupráce a zaměření:
+#### EBOR
+- Evropská banka pro obnovu a rozvoj
+#### ECB
+ - Evropská centrální banka
+#### SB
+- Světové banky (celosvětová spolupráce)
+#### MMF
+- mezinarodní měnový fond
+
+### Komerční banky
+- vždy se jedná o p. o., konkrétně akciovou společnost (zapsána v obchodním rejstříku)
+- cílem je zisk
+- typy operací:
+#### Aktivní
+- klient je dlužníkem
+- banka je věřitelem
+- úvěry
+
+#### Pasivní
+- klient je věřitelem
+- banka je dlužníkem
+- spoření, termínové vklady
+
+#### Neutrální
+- klient není věřitelem
+- banka není dlužníkem
+- mezinárodní převody, bezpečnostní trezory
+
+### Speciální bankovní společnosti
+#### stavební spoření
+- libovolně mnoho, státní podpora však na jeden
+- protiinflační strategie státu
+- použít na COKOLIV
+- podmínky:
+    - 6 let
+    - 20 000 Kč
+    - 1 000 kč ročně
+#### hypoteční banky
+- dceřiné firmy, velkých banek
+- jiné licence
+
+#### úvěrová družstva
+- 'pyramidy'
+- 'Ponzové schémata'
+- velmi rizikové smolouvy
+- Zonky.cz (šílené RPSN)
+
+## 19. Managment
+- řízení podniku, firmy, týmu, kolektivu
+- manager = správce, vedoucí
+### Kroky:
+#### 1) Rozhodování
+- douhodobý horizont
+- krátkodobý horizont
+- idea, nápad
+- znalosti, dovednosti v dané oblasti
+
+#### 2) Plánování
+- jak cíle dosáhnout
+
+#### 3) Organizace
+- uspořádání
+- hierarchie
+- rozdělení pravomocí
+
+#### 4) Motivace
+- vedení týmu
+- positivní × negativní
+
+#### 5) Kontrola
+- zjišťování fungování
+- zpetná vazba
+
+### typy vedení:
+
+#### Autokratické
+- jednostranná komunikace
+    - zaměstnanec nemá právo se vyjádřit
+- negativní motivace a tresty
+- osobní rozvoj není
+- plná pravomoc podřízených
+- nepřiměřená důslednost
+- absolutně neefektivní
+- armáda, policie, záchranné služby
+
+#### Demokratické
+- oboustranná komunikace
+    - zaměstnanec se může vyjádřit
+- motivace obou typů (cukr a bič)
+- dostupný osobní rozvoj
+- rozdělení pravomocí
+- přiměřená kontrola
+- nejefektivnější
+- firmy, podniky
+
+#### Liberální
+- otevřená komunikace
+    - chaos, nikam nespěje
+    - každého názor
+- plný osobní rozvoj
+- nelogické/náhodné pravomoce
+- nesystematická kontrola
+- umělci a vědci
+
+|               | autokratický                              | demokratický            | liberální (často nižší úr. řízení)  |
+| ------------- | ----------------------------------------- | ----------------------- | ----------------------------------- |
+| komunikace    | jednostranná komunikace                   | oboustranná komunikace  | otevřenost (často bez závěru)       |
+| pravomoci     | soustředěné nadřízeným                    | příměřeně rozdělené     | nejsou jasně rozdělené              |
+| osobní rozvoj | často omezen (ne vždy)                    | podporován              | nesystémové                         |
+| kontrola      | nepřiměřeně důsledná (demotivační)        | přiměřená               | nahodilá                            |
+| efektivita | neefektivní (až na vyjímky, např. armáda, ..) | nejefektivnější (podmínka: sebekázeň zaměstnanců) | neefektivní (vyjímka: tvůrčí profese, např. umění, věda, ...) |
+| použití       | armáda, JZS, výběr zaměstnanců            | běžné podniky           | věda, výzkum, tvůrčí profese, umění |
+
+## 20. Marketing
+- podpora prodeje
+- histrocký vývoj tržní konzumní společnosti:
+- Nabídka < Poptávka
+-  **Průmyslový revoluce 1860**
+- Nabídka > Poptávka
+- *Multidisciplína*
+    - psychologie barev
+    - rétorika
+    - socioligie
+    - právo
+    - výtvarný design
+    - matematika
+    - statistika
+
+### Typy Marketingu:
+#### Výrobní
+- vyjímečnost produktu
+- zákazník trvale osloven
+- Apple, Milka, BMW
+
+#### Absolutní
+- Nabídka > Poptávka
+- vytváření potřeb
+- silný, agresivní důraz na marketing
+
+#### Cennový/Hodnotný
+- zboží denní spotřeby
+- 65% zboží
+- potraviny, časté produkty
+
+### Product / Výrobek
+- zeměření na vlastnosti produktu
+- značka zboží
+- design
+- pověst značky
+- sortiment
+- servisní služby
+- záruka
+- složení
+- kompatibilita
+- induvidualita
+
+
+### Price / Cena
+- velmi nízké ceny
+- slevy
+- kupony
+- poměr cena - výkon
+- množstevní ceny/slevy
+- věrnostní karty
+    - *kartičku máte? bodíky sbíráte?*
+- forma placení
+- podmínky
+- náhrady
+- placení
+- vrácení, výměna zboží
+
+
+### Place / Místo
+- distribuční cesty
+- sortiment na prodejně
+- zásobování
+- doprava
+- umístění
+- zásilková služba
+- urbanizace
+
+### Promotion / Propagace
+- bruh, nedá se nic

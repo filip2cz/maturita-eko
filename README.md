@@ -689,7 +689,7 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 - guvernér, bankovní rada
 - funkce:
     - vydává měnu, její emise
-    - licensuje komerční banky i nebankovní společnosti
+    - licencuje komerční banky i nebankovní společnosti
     - koriguje inflaci (úrokové sazby komerčních bank)
     - spolupráce a zaměření:
 

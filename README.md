@@ -734,6 +734,7 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
     - 6 let
     - 20 000 Kč
     - 1 000 kč ročně
+
 #### hypoteční banky
 - dceřiné firmy, velkých banek
 - jiné licence

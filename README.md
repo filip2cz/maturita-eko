@@ -682,7 +682,7 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
         - komerční
         - bytový
 
-## 18. Bankovní soustava ČR
+## 18. ČNB a komerční banky
 ### ČNB
 - česká národní Banka
 - státní peněžní ústav (speciální zákon)

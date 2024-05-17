@@ -703,7 +703,7 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 - Světové banky (celosvětová spolupráce)
 
 #### MMF
-- mezinarodní měnový fond
+- mezinárodní měnový fond
 
 ### Komerční banky
 - vždy se jedná o p. o., konkrétně akciovou společnost (zapsána v obchodním rejstříku)
@@ -733,16 +733,16 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 - podmínky:
     - 6 let
     - 20 000 Kč
-    - 1 000 kč ročně
+    - 1 000 Kč ročně
 
 #### hypoteční banky
-- dceřiné firmy, velkých banek
+- dceřiné firmy velkých bank
 - jiné licence
 
 #### úvěrová družstva
 - 'pyramidy'
 - 'Ponzové schémata'
-- velmi rizikové smolouvy
+- velmi rizikové smlouvy
 - Zonky.cz (šílené RPSN)
 
 ## 19. Managment

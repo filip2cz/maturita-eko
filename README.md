@@ -628,6 +628,8 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 - https://cs.wikipedia.org/wiki/Obchodn%C3%AD_rejst%C5%99%C3%ADk
 - https://dostupnyadvokat.cz/blog/jak-na-zapis-do-obchodniho-rejstriku
 
+<!--
+
 ## 16. Daňová soustava ČR
 ### daň
 - letí do státního rozpočtu
@@ -667,8 +669,9 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
     - daňová přiměřenost
     - daňová vymahatelnost
 
-## 17. Druhy Daní
-### Přímé × Nepřímé
+-->
+
+## 16. Přímé a nepřímé daně
 
 ### Nepřímé daně
 - stát NEZNÁ poplatníka

@@ -733,7 +733,7 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 
 ## 18. ČNB a komerční banky
 ### ČNB
-- česká národní Banka
+- **Č**eská **n**árodní **b**anka
 - státní peněžní ústav (speciální zákon)
 - guvernér, bankovní rada
 - funkce:
@@ -743,16 +743,16 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
     - spolupráce a zaměření:
 
 #### EBOR
-- Evropská banka pro obnovu a rozvoj
+- **E**vropská **b**anka pro **o**bnovu a **r**ozvoj
 
 #### ECB
- - Evropská centrální banka
+ - **E**vropská **c**entrální **b**anka
 
 #### SB
-- Světové banky (celosvětová spolupráce)
+- **S**větové **b**anky (celosvětová spolupráce)
 
 #### MMF
-- mezinárodní měnový fond
+- **m**ezinárodní **m**ěnový **f**ond
 
 ### Komerční banky
 - vždy se jedná o p. o., konkrétně akciovou společnost (zapsána v obchodním rejstříku)

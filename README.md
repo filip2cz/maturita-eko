@@ -153,13 +153,57 @@ zdroje:
 Hospodářský proces je činnosti, ke které potřebujeme kapitál, za který nakoupíme ostatní výrobní faktory, které na sebe ve výrobním procesu vzájemněna sebe ve výrobním procesu vzájemně působí, výsledkem tohoto působení je výrobek, který se na trhu stává zbožím. Až se zboží dostane ke konečnému spotřebiteli, tak máme zase na konci finanční kapitál.
 
 ### Vztahy v hospodářském procesu (obyvatelé, podniky, stát)
-doplnim pak
+- strany
+	- obyvatelé
+		- stát - odvádí daně
+		- stát - pracovní sílu
+		- podniky - pracovní síla
+		- podniky - uhrazuje statky a služby
+	- podniky
+		- stát - daně
+		- stát - různé druhy statků a služeb (el. energie, zbraně, uniformy, internet)
+		- obyvatelé - pracovní pozice a plat
+		- obyvatelé - statky a služby
+	- stát
+		- obyvatelé - veřejné statky a služby (hasiči, policie, dopravní infrastruktura, vzdělání)
+		- obyvatelé - pracovní pozice
+		- podniky - veřejné statky a služby (dotace)
+		- podniky - platí za statky a služby
 
-### Fáze hospodářského procesu
-- Výroba
-    - přeměna výrobních faktorů
+### Koloběh HP (celospolečenský proces)
+- ... -> výroba -> rozdělování -> směna -> spotřeba -> výroba -> ...
+- etapy jsou časově a místy propojeny
+- výroba - zhotování statků služeb pro cizí spotřebu
+- rozdělování (distribuce) - i zdrojů
+- směna - prodej a nákup
+- ten, kdo hospodaří, nakládá s nějakými prostředky
+- obyvatelstvo platí státu daně, stát nabízí obyvatelstvu veřejné statky a služby (úřady, infrastruktura, obrana, mhd, zdravotní pojištění za některé skupiny)
+- Výrobní spotřeba = použita pro statky a služby, které pak (snad) budou prodány
 
-#### Ještě to není celý
+#### Spotřeba
+- Spotřeba obnoví pracovní sílu
+- Spotřeba se dělí na:
+	- konečná spotřeba - konečné využití (uvařit oběd pro sebe), patří do koloběhu, protože doplní energii např.
+	- výrobní spotřeba - výroba vajíček pro prodej, propojení s koloběhem
+
+#### Reprodukce
+- prostá
+	- stejný rozsah
+	- tradiční způsoby hospofaření(historicky)
+- rozšířená
+	- stále zvětšující se rozsah
+	- typické pro proekonomický růst
+	- např. naše rostoucí civilizace
+- zůžená
+	- zmenšující se rozsah, kvůli např. přírodníkatastrofě, hospodářské krize, tzv. ekonomický pokles
+
+
+### Výrobní faktory
+- Přírodní podmínky (podnebí, nerostné suroviny, horstvo, vodstvo, biosféra)
+- Obyvatelé (vzdělaní, věk, počet mužů, žen a dětí, ekonomická aktivita, zdravotní stav, kultura)
+- Kapitál (zdroje již vytvořené společností)
+
+- Dostupnost a kvalita těchto faktorů významně předurčuje ekonomickou vyspělost a životní úroveň obyvatel
 
 zdroje:
 - http://gymnazium1.milevsko.cz/dokumenty/ekf2/kol/hospodarsky_proces.html

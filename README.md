@@ -866,7 +866,7 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 - podpora prodeje
 - histrocký vývoj tržní konzumní společnosti:
 - Nabídka < Poptávka
--  **Průmyslový revoluce 1860**
+-  **Průmyslová revoluce 1860**
 - Nabídka > Poptávka
 - *Multidisciplína*
     - psychologie barev
@@ -905,7 +905,6 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 - kompatibilita
 - induvidualita
 
-
 ### Price / Cena
 - velmi nízké ceny
 - slevy
@@ -919,7 +918,6 @@ Povinná a nenávratná platba, která je vybírána státem z titulu vlastnictv
 - náhrady
 - placení
 - vrácení, výměna zboží
-
 
 ### Place / Místo
 - distribuční cesty

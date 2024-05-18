@@ -240,9 +240,11 @@ Patenty, autorská práca, software, atd.
 ### Evidence majetku
 skladní karty (drobný majetek), inventářní karty (dlouhodobý majetek), inventarizace (vyřešení rozdílů)
 
-## 8. Zabezpečování podniku pracovníky
+<!-- ## 8. Zabezpečování podniku pracovníky
 
 Bude doplněno později
+
+-->
 
 ## 9. Pracovně právní vztahy
 Zaměstnanci jsou Pracovní síla (práce - cílevědomá činnost)

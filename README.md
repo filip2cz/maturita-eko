@@ -323,13 +323,54 @@ Musí obsahovat:
 - často odkaz na zákoník práce (nepovinné)
 
 ## 10. Mzdová soustava
-Složky mzdy
+**Mzdová soustava je soubor podkladů potřebných pro výpočet mzdy.**
+
+Tvoří ji:
+- Skupiny prací pro účely stanovení mzdy
+- Tarifní stupnice a mzdové tarify
+- Formy mezd
+
+### Složky mzdy
 - Pevná složka - základná mzda (úkolová, časová, podílová, kombinovaná)
 - Pohyblivá složka
 	- Příplatky - plat za nestandartní podmínky (přesčasy, práce o svátcích)
 	- Prémie - "odměna" za splnění norem (kvalita, kvantita)
 	- Odměny - osobní ohodnocení ničím nepodmíněné
 - Náhrady mzdy - dovolená, úřední jednání, lékař
+
+Platy – státní sféra (úřady) x Mzda – soukromý sektor
+
+### Druhy mzdy
+- Podle hodnoty
+	- nominální - peněžní částka bez ohledu, co za ní lze koupit
+	- reálná - vyjadřuje množství zboží, které lze za mzdu koupit
+- Podle výpočtu
+	- základní
+	- hrubá = základní mzda + pohyblivé složky mzdy
+	- superhrubá – hrubá mzda + SZP hrazené zaměstnavatelem z hrubé mzdy (34 %)
+	- čistá = hrubá mzdy – zákonné srážky (SZP, záloha na DPFO)
+
+### Formy mzdy
+- Úkolová
+	- Podle počtu vyrobených výrobků
+	- Úkolová sazba – mzda za 1 zhotovenou jednotku
+	- Vyšší rychlost, nižší důslednost
+- Časová
+	- Podle odpracovaného času
+	- Tam, kde nelze věřit výsledky práce
+	- Nižší rychlost, vyšší důslednost
+
+Podílová (provize) – závisí na tržbách, obratu, fakturaci…je daná podílem (procentem)
+
+Smíšená (kombinovaná) – kombinace úkolové nebo časové a podílové
+
+Smluvní/pevný měsíční plat – pevná částka
+
+Akordní – mzda za předem stanovený čas a úkol
+
+Čistá mzda = Hrubá mzda – SOC (6,5%) – zdrav (4,5)
+
+Mzda k výplatě = Čistá mzda + nemocenské dávky
 
 ## 11. Podnikání fyzických a právnických osob
 ### Definice podnikání

@@ -1,5 +1,5 @@
 # Ekonomika - maturitní okruhy
-## Společná práce Filipa Komárka (1-2), Šimona Konečného (6-10), Mikuláše Jana Honyse (11-15) a Lva Bebekina (16-20)
+## Společná práce Filipa Komárka (1-3), Šimona Konečného (6-10), Mikuláše Jana Honyse (11-15) a Lva Bebekina (16-20)
 [zkrácená osnova](./osnova/)
 
 ## 0. Nejdříve trocha poezie:

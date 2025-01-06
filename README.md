@@ -11,7 +11,7 @@ Filip, vždy v ekonomice líný
 že v září znovu přijde věří
 
 klika cvakla, dveře letí
-čas se krátí, filip ví
+čas se krátí, Filip ví
 co to říká za souvětí
 Chládková ho opraví
 
@@ -27,7 +27,7 @@ Filip na to jenom hekl
 
 hádkou zachvácená komise
 řeší jeho známku finální
-a filip zatím na římse
+a Filip zatím na římse
 přehodnocuje své zdraví mentální
 
 Stálo to nohu předsedy
@@ -36,7 +36,7 @@ než ta vydechla naposledy
 z ruky jí známka vyklouzla
 
 jednou nohou nad propastí
-obrátí se filip zpět
+obrátí se Filip zpět
 třeba uspěl aspoň z části
 vidí známku, číslo pět.
 ```

@@ -2,6 +2,47 @@
 ## Společná práce Filipa Komárka (1-2), Šimona Konečného (6-10), Mikuláše Jana Honyse (11-15) a Lva Bebekina (16-20)
 [zkrácená osnova](./osnova/)
 
+nejdříve trocha poezie:
+
+```
+Dnešek nebyl jako žádný jiný
+Zkouška je na druhé straně dveří
+Filip, vždy v ekonomice líný
+že v září znovu přijde věří
+
+klika cvakla, dveře letí
+čas se krátí, filip ví
+co to říká za souvětí
+Chládková ho opraví
+
+Urazit nechci nikoho
+to mu řekla profesorka
+vy víte toho nemnoho
+už ho jde zničit pacholka
+
+Definice co jste řekl
+není přesná bojím se
+Filip na to jenom hekl
+"A co na to komise?"
+
+hádkou zachvácená komise
+řeší jeho známku finální
+a filip zatím na římse
+přehodnocuje své zdraví mentální
+
+Stálo to nohu předsedy
+jež mu ekonomikářka ukousla
+než ta vydechla naposledy
+z ruky jí známka vyklouzla
+
+jednou nohou nad propastí
+obrátí se filip zpět
+třeba uspěl aspoň z části
+vidí známku, číslo pět.
+```
+
+- Šimon Konečný
+
 ## 1. Lidské potřeby, statky a služby
 
 Potřeby uspokojujeme pomocí statků a služeb.
